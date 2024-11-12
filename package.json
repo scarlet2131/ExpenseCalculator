@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests"
+    "test": "jest --passWithNoTests" 
   },
   "keywords": [],
   "author": "",
@@ -12,10 +12,10 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "ejs": "^3.1.10",
-    "express": "^4.19.2",
+    "express": "^4.21.1",
     "mssql": "^11.0.1"
   },
   "devDependencies": {
-    "jest" : "^27.0.0"
+    "jest": "^27.0.0"
   }
 }
